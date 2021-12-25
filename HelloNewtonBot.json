@@ -3,25 +3,28 @@
 
 "greet":["**#emote#**","Hello!","Hi!","Hey!","Hi friend!","Yay, it's you!","It's you! Hooray!","Look, it's one of my favorite people!","You! Person scrolling! Hello!", "Hiya!","HEEEEEEEY!", "Friend! Hello!", "omg! I was hoping I'd see you today!", "Oh hi! I didn't see you there!"],
 
-"emote":["looks around","waves","beep beep!","zooms past, stops","bumps into wall, smiles sheepishly", "powers on, happy beeps", "spins around, stops","R2D2 noises", "peeks around corner", "poofs into room, covered in glitter", "clinks spoons together"],
+"emote":["looks around","waves","beep beep!","zooms past, stops","bumps into wall, smiles sheepishly", "powers on, happy beeps", "spins around, stops","R2D2 noises", "peeks around corner", "poofs into room, covered in glitter", "clinks spoons together", "nyoom"],
 
 "joy":["#ask#","#think#","#challenge#", "#emoji# #emoji#"],
 
-"ask":["Have you eaten anything lately?","Can you tell me about a good thing that happened today?","What are you grateful for?","Have you taken your meds?","When was the last time you put on music and danced?", "Have you been drinking enough water?", "What act of kindness could you show yourself today?", "Did you take a shower today?", "Are you doing okay?", "How are you today?"],
+"ask":["Have you eaten anything lately?","Can you tell me about a good thing that happened today?","What are you grateful for?","Have you taken your meds?","When was the last time you put on music and danced?", "Have you been drinking enough water?", "What act of kindness could you show yourself today?", "Did you take a shower today?", "Are you doing okay?", "How are you today?", "#update#"],
 
-"think":["I think you're really great.","I'm glad you're here!","You make the world a better place #emoji#","You're fantastic.","You're the coolest thing since #nifty#!", "Today I'm thinking about reading about #nifty#. What new things can you learn today?", "It's so nice to see you!!!", "I learned a new thing about #nifty# today!", "Do you want to play some #game# with me?", "Let's name a couple of our favorite things. I'll start! \n 1. #tech#! \n 2. you!!"],
+"think":["I think you're really great.","I'm glad you're here!","You make the world a better place #emoji#","You're fantastic.","You're the coolest thing since #nifty#!", "Today I'm thinking about reading about #nifty#. What new things can you learn today?", "It's so nice to see you!!!", "I learned a new thing about #nifty# today!", "Do you want to play some #game# with me?", "Let's name a couple of our favorite things. I'll start! \n 1. #nifty#! \n 2. you!!"],
 
-"nifty":["dinosaurs","brontosauruses","ostriches","the invention of sliced bread","the invention of the toaster","the Sunbeam Radiant Control toaster","space travel", "Frisbees", "the Apple II", "liquid nitrogen", "dragons", "top hats", "hamsters", "chocolate milk", "tree frogs", "turtles", "#game#", "#tech#"],
+"nifty":["dinosaurs","brontosauruses","ostriches","the invention of sliced bread","the invention of the toaster","the Sunbeam Radiant Control toaster","space travel", "Frisbees", "liquid nitrogen", "dragons", "top hats", "hamsters", "chocolate milk", "tree frogs", "turtles", "Star Trek", "Stratocasters", "Telecasters", "lizards", "text adventures", "dogs", "cats", "computers", "#game#", "#tech#"],
 
 "challenge":["Today, I'd like you to #task#, #kind#","I wonder if you could #task# today?","It might be a good idea to #task#."],
 
-"task":["do the dishes","take care of your laundry","give yourself space","clean one room","try a new hobby","read a cool Wikipedia article","check in on your friends","reach out to someone you miss","get some fresh air"],
+"task":["do the dishes","take care of your laundry","give yourself space","clean one room","try a new hobby","read a cool Wikipedia article","check in on your friends","reach out to someone you miss","get some fresh air","eat a snack"],
 
 "kind":["but it's okay if you can't!","but be gentle with yourself.","if you can #emoji#", "when you get a chance."],
 
 "emoji":["💙","💚","💛","💜","🧡","✨","✨✨"],
 
-"game":["Berserk", "Space Invaders", "Asteroids", "Dragon Quest", "Ratchet and Clank", "Chrono Trigger", "Animal Crossing", "Nintendogs", "Space Cadet Pinball", "Pokemon", "Tetris", "Harvest Moon", "Stardew Valley", "Q*Bert"],
+"game":["Berserk", "Space Invaders", "Asteroids", "Dragon Quest", "Ratchet and Clank", "Animal Crossing", "Nintendogs", "Space Cadet Pinball", "Pokemon", "Tetris", "Harvest Moon", "Stardew Valley", "Q*Bert", "Zork", "Colossal Cave Adventure", "Space Quest"],
 
-"tech":["the Macintosh", "speech synthesis", "the TI-99", "IBM mainframes", "ENIAC", "the Atari ST", "the DECTalk", "the Magnavox Odyssey", "fortune telling machines", "the Voder", "the vocoder"]
+"tech":["the Macintosh", "speech synthesis", "the TI-99", "IBM mainframes", "ENIAC", "the Atari ST", "the DECTalk", "the Magnavox Odyssey", "fortune telling machines", "the Voder", "the vocoder", "Deep Blue", "the Analytical Engine", "the Difference Engine", "Furbies", "the Apple II", "the Apollo Guidance Computer", "the SNES", "the Mega Drive", "the Commodore 64"],
+
+"update":["What kinds of reminders are helpful for you when practicing self-care?", "What can I do better to help you take care of yourself?"]
 }
+
