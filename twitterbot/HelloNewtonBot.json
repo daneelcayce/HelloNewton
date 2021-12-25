@@ -3,149 +3,149 @@
 
 "greet":[
   "**#emote#**",
+  "Friend! Hello!",
+  "HEEEEEEEY!",
   "Hello!",
-  "Hi!",
   "Hey!",
+  "Hi!",
   "Hi friend!",
-  "Yay, it's you!",
+  "Hiya!",
   "It's you! Hooray!",
   "Look, it's one of my favorite people!",
-  "You! Person scrolling! Hello!",
-  "Hiya!",
-  "HEEEEEEEY!",
-  "Friend! Hello!",
+  "Oh hi! I didn't see you there!",
   "omg! I was hoping I'd see you today!",
-  "Oh hi! I didn't see you there!"
+  "Yay, it's you!",
+  "You! Person scrolling! Hello!"
 ],
 
 "emote":[
-  "looks around",
-  "waves",
   "beep beep!",
-  "zooms past, stops",
   "bumps into wall, smiles sheepishly",
-  "powers on, happy beeps",
-  "spins around, stops",
-  "R2D2 noises",
+  "clinks spoons together",
+  "looks around",
   "peeks around corner",
   "poofs into room, covered in glitter",
-  "clinks spoons together"
+  "powers on, happy beeps",
+  "R2D2 noises",
+  "spins around, stops",
+  "waves",
+  "zooms past, stops"
 ],
 
 "joy":[
   "#ask#",
-  "#think#",
   "#challenge#",
-  "#emoji# #emoji#"
+  "#emoji# #emoji#",
+  "#think#"
 ],
 
 "ask":[
-  "Have you eaten anything lately?",
-  "Can you tell me about a good thing that happened today?",
-  "What are you grateful for?",
-  "Have you taken your meds?",
-  "When was the last time you put on music and danced?",
-  "Have you been drinking enough water?",
-  "What act of kindness could you show yourself today?",
-  "Did you take a shower today?",
   "Are you doing okay?",
-  "How are you today?"
+  "Can you tell me about a good thing that happened today?",
+  "Did you take a shower today?",
+  "Have you been drinking enough water?",
+  "Have you eaten anything lately?",
+  "Have you taken your meds?",
+  "How are you today?",
+  "What are you grateful for?",
+  "What act of kindness could you show yourself today?",
+  "When was the last time you put on music and danced?"
 ],
 
 "think":[
-  "I think you're really great.",
-  "I'm glad you're here!",
-  "You make the world a better place #emoji#",
-  "You're fantastic.","You're the coolest thing since #nifty#!",
-  "Today I'm thinking about reading about #nifty#. What new things can you learn today?",
-  "It's so nice to see you!!!",
-  "I learned a new thing about #nifty# today!",
   "Do you want to play some #game# with me?",
-  "Let's name a couple of our favorite things. I'll start! \n 1. #tech#! \n 2. you!!"
+  "I learned a new thing about #nifty# today!",
+  "I'm glad you're here!",
+  "I think you're really great.",
+  "It's so nice to see you!!!",
+  "Let's name a couple of our favorite things. I'll start! \n 1. #tech#! \n 2. you!!",
+  "Today I'm thinking about reading about #nifty#. What new things can you learn today?",
+  "You make the world a better place #emoji#",
+  "You're fantastic.","You're the coolest thing since #nifty#!"
 ],
 
 "nifty":[
-  "dinosaurs",
+  "#game#",
+  "#tech#",
+  "the Apple II",
   "brontosauruses",
-  "ostriches",
+  "chocolate milk",
+  "dinosaurs",
+  "dragons",
+  "hamsters",
   "the invention of sliced bread",
   "the invention of the toaster",
-  "the Sunbeam Radiant Control toaster",
-  "space travel",
-  "Frisbees",
-  "the Apple II",
   "liquid nitrogen",
-  "dragons",
+  "ostriches",
+  "space travel",
+  "the Sunbeam Radiant Control toaster",
   "top hats",
-  "hamsters",
-  "chocolate milk",
   "tree frogs",
-  "turtles",
-  "#game#",
-  "#tech#"
-],
+  "turtles"
+  ],
 
 "challenge":[
-  "Today, I'd like you to #task#, #kind#",
+  "It might be a good idea to #task#.",
   "I wonder if you could #task# today?",
-  "It might be a good idea to #task#."
+  "Today, I'd like you to #task#, #kind#"
 ],
 
 "task":[
-  "do the dishes",
-  "take care of your laundry",
-  "give yourself space",
-  "clean one room",
-  "try a new hobby",
-  "read a cool Wikipedia article",
   "check in on your friends",
+  "clean one room",
+  "do the dishes",
+  "get some fresh air",
+  "give yourself space",
   "reach out to someone you miss",
-  "get some fresh air"
+  "read a cool Wikipedia article",
+  "take care of your laundry",
+  "try a new hobby"
 ],
 
 "kind":[
-  "but it's okay if you can't!",
   "but be gentle with yourself.",
+  "but it's okay if you can't!",
   "if you can #emoji#",
   "when you get a chance."
 ],
 
 "emoji":[
-  "💙",
-  "💚",
-  "💛",
-  "💜",
   "🧡",
-  "✨","✨✨"],
+  "💛",
+  "💚",
+  "💙",
+  "💜",
+  "✨",
+  "✨✨"],
 
 "game":[
-  "Berserk",
-  "Space Invaders",
-  "Asteroids",
-  "Dragon Quest",
-  "Ratchet and Clank",
-  "Chrono Trigger", 
   "Animal Crossing",
-  "Nintendogs",
-  "Space Cadet Pinball",
-  "Pokemon",
-  "Tetris",
+  "Asteroids",
+  "Berserk",
+  "Chrono Trigger", 
+  "Dragon Quest",
   "Harvest Moon",
+  "Nintendogs",
+  "Pokemon",
+  "Q*Bert",
+  "Ratchet and Clank",
+  "Space Cadet Pinball",
+  "Space Invaders",
   "Stardew Valley",
-  "Q*Bert"
+  "Tetris"
 ],
 
 "tech":[
-  "the Macintosh",
-  "speech synthesis",
-  "the TI-99",
-  "IBM mainframes",
-  "ENIAC",
   "the Atari ST",
   "the DECTalk",
-  "the Magnavox Odyssey",
+  "ENIAC",
   "fortune telling machines",
-  "the Voder",
-  "the vocoder"
+  "IBM mainframes",
+  "the Macintosh",
+  "the Magnavox Odyssey",
+  "speech synthesis",
+  "the TI-99",
+  "the vocoder",
+  "the Voder"
 ]
 }
