@@ -1,5 +1,5 @@
 # Project Newton: an executive dysfunction/positivity helper
-by Daneel Cayce <stratotron@gmail.com>
+by Daneel Adrian Cayce <<stratotron@gmail.com>>
 
 Newton is a helpful little robot friend for folks who struggle with executive dysfunction.
 
