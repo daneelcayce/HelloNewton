@@ -1,0 +1,208 @@
+{
+"origin":["#greet# \n\n #joy#"],
+
+"greet":[
+  "**#emote#**",
+  "Friend! Hello!",
+  "HEEEEEEEY!",
+  "Hello!",
+  "Hey!",
+  "Hi!",
+  "Hi friend!",
+  "Hiya!",
+  "It's you! Hooray!",
+  "Look, it's one of my favorite people!",
+  "Oh hi! I didn't see you there!",
+  "omg! I was hoping I'd see you today!",
+  "Yay, it's you!",
+  "You! Person scrolling! Hello!"
+],
+
+"emote":[
+  "beep beep!",
+  "bumps into wall, smiles sheepishly",
+  "clinks spoons together",
+  "looks around",
+  "peeks around corner",
+  "poofs into room, covered in glitter",
+  "powers on, happy beeps",
+  "R2D2 noises",
+  "spins around, stops",
+  "waves",
+  "zooms past, stops"
+],
+
+"joy":[
+  "#ask#",
+  "#challenge#",
+  "#emoji# #emoji#",
+  "#think#"
+],
+
+
+"ask":[
+  "Are you doing okay?",
+  "Can you tell me about a good thing that happened today?",
+  "Did you take a shower today?",
+  "Have you been drinking enough water?",
+  "Have you eaten anything lately?",
+  "Have you taken your meds?",
+  "How are you today?",
+  "What act of kindness could you show yourself today?",
+  "What are you grateful for?",
+  "When was the last time you put on music and danced?"
+],
+
+"challenge":[
+  "If you have the energy, maybe you could take five minutes to #task# today, #kind#",
+  "It might be a good idea to #task# today.",
+  "I wonder if you could #task# today?",
+  "Today, I'd like you to #task#, #kind#"
+],
+
+"think":[
+  "Do you want to play #game# with me?",
+  "I learned a new thing about #nifty# today!",
+  "I'm glad you're here!",
+  "I think you're really great.",
+  "It's so nice to see you!!!",
+  "Let's name a couple of our favorite things. I'll start! \n 1. #nifty#! \n 2. you!!",
+  "Today I'm thinking about reading about #nifty#. What new things can you learn today?",
+  "You make the world a better place #emoji#",
+  "You're fantastic.",
+  "You're the coolest thing since #tech#!"
+],
+
+
+"nifty":[
+  "#animals#",
+  "#game#",
+  "#science#",
+  "#tech#",
+  "#things#"
+  ],
+
+"animals":[
+  "alpacas", 
+  "brontosauruses",
+  "caribou",
+  "dinosaurs",
+  "dragons",
+  "ducks",
+  "elephants",
+  "emus",
+  "Furbies",
+  "giraffes",
+  "hamsters",
+  "koalas",
+  "lemurs",
+  "llamas",
+  "ostriches",
+  "penguins",
+  "pigeons",
+  "reindeer",
+  "starfish",
+  "tardigrades",
+  "tree frogs",
+  "turtles",
+  "zebras"
+],
+
+"game":[
+  "Animal Crossing",
+  "Asteroids",
+  "Berserk",
+  "The Castle of Dr. Brain",
+  "Chrono Trigger",
+  "Colossal Cave Adventure",
+  "Dragon Quest",
+  "Galaga",
+  "Galaxian",
+  "Harvest Moon",
+  "The Incredible Machine",
+  "Light Cycles",
+  "Minecraft",
+  "Nintendogs",
+  "Pokemon",
+  "Q*Bert",
+  "Ratchet and Clank",
+  "Space Cadet Pinball",
+  "Space Invaders",
+  "Space Paranoids",
+  "Stardew Valley",
+  "Tetris",
+  "Zork"
+],
+
+"science":[
+  "the invention of sliced bread",
+  "liquid nitrogen",
+  "the Saturn V rocket",
+  "space shuttles",
+  "space travel",
+  "Sputnik 1"
+],
+
+"tech":[
+  "analog synthesizers",
+  "the Apple II",
+  "the Atari ST",
+  "the DECTalk",
+  "ENIAC",
+  "floppy disks",
+  "fortune telling machines",
+  "IBM mainframes",
+  "the Macintosh",
+  "the Magnavox Odyssey",
+  "SPARCstations",
+  "speech synthesis",
+  "speech synthesizers",
+  "the TI-99",
+  "the vocoder",
+  "the Voder",
+  "the Xerox Alto"
+],
+
+"things":[
+  "chocolate milk",
+  "coffee",
+  "frisbees",
+  "a good cup of tea",
+  "lava lamps",
+  "the Sunbeam Radiant Control toaster",
+  "top hats"
+],
+
+
+"task":[
+  "check in on your friends",
+  "clean one room",
+  "do the dishes",
+  "get some fresh air",
+  "give yourself space",
+  "reach out to someone you miss",
+  "read a cool Wikipedia article",
+  "take a break from Twitter",
+  "take care of your laundry",
+  "try a new hobby"
+],
+
+
+"kind":[
+  "but be gentle with yourself.",
+  "but it's okay if you can't!",
+  "if you can #emoji#",
+  "when you get a chance."
+],
+
+
+"emoji":[
+  "🧡",
+  "💛",
+  "💚",
+  "💙",
+  "💜",
+  "✨",
+  "✨✨"
+]
+}
