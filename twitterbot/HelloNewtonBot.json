@@ -55,20 +55,31 @@
 
 
 "ask":[
+  "#reminder#",
   "Are you doing okay?",
   "Can you tell me about a good thing that happened today?",
-  "Did you take a shower today?",
-  "Have you been drinking enough water?",
-  "Have you eaten anything lately?",
-  "Have you taken your meds?",
   "How are you today?",
+  "How's your day been so far?",
   "What act of kindness could you show yourself today?",
   "What are you grateful for?",
-  "When was the last time you put on music and danced?"
+  "What can I do to help you take better care of yourself?",
+  "What's on your to-do list for today?",
+  "When was the last time you put on music and danced?",
+  "Who are you grateful for?"
+],
+
+"reminder":[
+  "Did you take a shower today?",
+  "Don't forget to take your meds today!",
+  "Have you been drinking enough water?",
+  "Have you eaten anything lately?",
+  "Have you gotten up and stretched lately?",
+  "Have you taken your meds?",
+  "Make sure you set your alarm tonight!"
 ],
 
 "challenge":[
-  "If you have the energy, maybe you could take five minutes to #task# today, #kind#",
+  "I think you should take five minutes to #task# today, #kind#",
   "It might be a good idea to #task# today.",
   "I wonder if you could #task# today?",
   "Today, I'd like you to #task#, #kind#"
@@ -190,11 +201,16 @@
 
 
 "task":[
+  "brush your teeth",
   "check in on your friends",
+  "check in with yourself",
   "clean one room",
   "do the dishes",
+  "eat a snack",
   "get some fresh air",
   "give yourself space",
+  "have something to drink",
+  "make your bed",
   "reach out to someone you miss",
   "read a cool Wikipedia article",
   "take a break from Twitter",
@@ -205,8 +221,11 @@
 
 "kind":[
   "but be gentle with yourself.",
+  "but be kind to yourself about it, okay?",
   "but it's okay if you can't!",
-  "if you can #emoji#",
+  "if you can. #emoji#",
+  "if you have the energy for it.",
+  "if you have time.",
   "when you get a chance."
 ],
 
