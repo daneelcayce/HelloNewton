@@ -101,6 +101,7 @@
 
 "nifty":[
   "#animals#",
+  "#computers",
   "#game#",
   "#science#",
   "#tech#",
@@ -111,7 +112,9 @@
   "alpacas", 
   "brontosauruses",
   "caribou",
+  "cats",
   "dinosaurs",
+  "dogs",
   "dragons",
   "ducks",
   "elephants",
@@ -125,12 +128,35 @@
   "ostriches",
   "penguins",
   "pigeons",
+  "possums",
   "reindeer",
   "starfish",
   "tardigrades",
   "tree frogs",
   "turtles",
   "zebras"
+],
+
+"computers":[
+  "Algol",
+  "the Analytical Engine",
+  "the Apple II",
+  "the Apple Lisa",
+  "the Apple Newton (yay!)",
+  "assembly language",
+  "the Atari ST",
+  "C",
+  "the Commodore 64",
+  "Deep Blue",
+  "ENIAC",
+  "IBM mainframes",
+  "the Macintosh",
+  "the Magnavox Odyssey",
+  "SPARCstations",
+  "System/360 mainframes",
+  "the TI-99",
+  "the Xerox Alto"
+
 ],
 
 "game":[
@@ -170,31 +196,24 @@
 
 "tech":[
   "analog synthesizers",
-  "the Apple II",
-  "the Atari ST",
   "the DECTalk",
-  "Deep Blue",
-  "ENIAC",
   "floppy disks",
   "fortune telling machines",
-  "IBM mainframes",
-  "the Macintosh",
-  "the Magnavox Odyssey",
-  "SPARCstations",
+  "iPods",
+  "Kraftwerk",
+  "modtrackers",
   "speech synthesis",
   "speech synthesizers",
-  "the TI-99",
   "the vocoder",
   "the Voder",
-  "the Xerox Alto"
 ],
 
 "things":[
   "chocolate milk",
   "coffee",
   "frisbees",
-  "a good cup of tea",
   "lava lamps",
+  "Star Trek",
   "the Sunbeam Radiant Control toaster",
   "top hats"
 ],
